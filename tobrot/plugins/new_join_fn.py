@@ -38,8 +38,8 @@ async def help_message_f(client, message):
     message_id = 99
     # display the /help message
     await message.reply_text(
-        f"https://t.me/FreeTorrentDownloader/10044)\n\nPlease read the Pinned Message\n\nReply these commands to Magnet link: \n`/leech` \n`/leech archive`\n`/ytdl`\n`/savethumbnail`\n`/clearthumbnail`\n\n If still getting some problems try checking chat or tag and ask admins in chat.\n\n Check out our Channel 
- uploads : LatestGDriveMovies ",
+        f""[Welcome !!](https://t.me/FreeTorrentDownloader/10044)\n\nPlease read the Pinned Message\n\nReply these commands to Magnet link: \n`/leech` \n`/leech archive`\n`/ytdl`\n`/savethumbnail`\n`/clearthumbnail`\n\n If still getting some problems try checking chat or tag and ask admins in chat.\n\n Check out our Channel : @LatestGDriveMovies",
+      
         quote=True
     )
 
